@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859963553908",
+    "firebase_url": "https://xter-systems.firebaseio.com",
+    "project_id": "xter-systems",
+    "storage_bucket": "xter-systems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859963553908:android:568fec25bb76b39a",
+        "android_client_info": {
+          "package_name": "com.example.xtersystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859963553908-bqqg2k83sc8cne3lg41anf98d7t7hj13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xtersystems",
+            "certificate_hash": "b3fd8cdb9869980c0b24ef58487748d012a6abac"
+          }
+        },
+        {
+          "client_id": "859963553908-k5tu64a9o6crosn0q9qjtfivl2fhgt99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbKu05fvpKoGtdSWwxPELVE24Yzyc_ms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859963553908-k5tu64a9o6crosn0q9qjtfivl2fhgt99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
